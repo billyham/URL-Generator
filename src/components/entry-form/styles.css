@@ -1,0 +1,18 @@
+.entry-form p.invalid {
+  color: crimson;
+  font-size: 80%;
+  margin: 0 1em 1em;
+}
+
+.entry-form .text-input input {
+  margin: 0 1em;
+  min-width: 20em;
+}
+
+.entry-form .checkbox-input {
+  margin: 0 0 1em;
+}
+
+.entry-form .is-hidden {
+  visibility: hidden;
+}
