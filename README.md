@@ -2,9 +2,7 @@
 
 This is a React single-page app for generating a database upload URL based on required and optional data. 
 
-## To test locally:
-
-- `git clone https://github.com/billyham/URL-Generator.git`
+## To run for local development:
 
 - `npm install`
 
@@ -14,7 +12,7 @@ This is a React single-page app for generating a database upload URL based on re
 
 ---
 
-## To Generate a build folder for release:
+## To generate a build folder for release:
 
 - `npm run build`
 
